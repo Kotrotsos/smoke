@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+/* Clearfloat 2000(tm)*/
+
+.row:before, .row:after, .cf:after {
+    content:"";
+    display:table;
+    clear:both;
+}
+
+
+body {
+    font-family:"Droid Serif";
+}
+
+a {
+
+}
