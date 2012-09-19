@@ -1,4 +1,4 @@
 smoke
 =====
 
-Skinny HTML5 Boilerplate
+Really Skinny HTML5 Boilerplate
