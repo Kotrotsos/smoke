@@ -11,8 +11,13 @@
 
 body {
     font-family:"Droid Serif";
+
 }
 
 a {
 
+}
+
+.list { 
+background: #f8f8f8;float:left;margin:0 4px;padding: 2px;position:relative;width:180px;
 }
